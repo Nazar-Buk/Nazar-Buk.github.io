@@ -22,7 +22,7 @@ html{
 #nav{
   width: 4rem;
   background: #0D1217;
-  height: 100vh;
+  height: 100%;
   z-index: 99999;
 }
 
